@@ -1,5 +1,5 @@
 {
-  "name": "my-smarthome-site",
+  "name": "SmartHome Solutions - Розумний Будинок",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://maksymzolotarchuk.github.io/SmartH",
+  "homepage": "https://maksonchiiik.github.io/SmartHome",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^7.1.0",
     "@fortawesome/free-solid-svg-icons": "^7.1.0",
